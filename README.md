@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dudagenehr&show_icons=true&theme=nightowl" />
 </a>
 
-<img  src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="320">
+<img  src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" height="195">
 
 <a href="https://github.com/dudagenehr/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudagenehr&layout=compact&theme=nightowl" />
