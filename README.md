@@ -6,9 +6,6 @@
 
 <img  src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="300">
 
-[![Linkedin: dudagenehr](https://img.shields.io/badge/-dudagenehr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dudagenehr/)](https://www.linkedin.com/in/dudagenehr/)
-[![GitHub dudagenehr](https://img.shields.io/github/followers/dudagenehr?label=follow&style=social)](https://github.com/dudagenehr)
-
 <a href="https://github.com/dudagenehr/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudagenehr&layout=compact&theme=nightowl" />
 </a>
