@@ -1,4 +1,4 @@
-<h1 align='left'> Hi, I'm Duda :) <img src="https://media.giphy.com/media/0gDJyGdzzRSkAFi9XQ/giphy.gif" width="50"> </h1>
+<h1 align='left'> Hi, I'm duda :) <img src="https://media.giphy.com/media/0gDJyGdzzRSkAFi9XQ/giphy.gif" width="50"> </h1>
 
 <a href="https://github.com/dudagenehr/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dudagenehr&show_icons=true&theme=nightowl" />
